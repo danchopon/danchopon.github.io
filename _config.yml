@@ -20,7 +20,7 @@ resume_contact_email:           "daniiar.erkinov@gmail.com"
 resume_contact_telephone:       "+996998560760"
 
 resume_header_contact_info:     "+996998560760 • daniiar.erkinov@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Senior iOS Engineer with 6+ years of experience in Swift and Objective-C. Proven track record with large-scale apps (Reddit 100M+ DAU, My O! 600K DAU), specializing in modular architectures, product analytics & event instrumentation, and modernizing legacy codebases.</p>"
 
